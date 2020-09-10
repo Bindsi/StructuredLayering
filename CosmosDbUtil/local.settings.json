@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "<Enter AppInsights InstrumentationKey>",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ContainerName": "<Enter Cosmos Db Container Name>",
+    "CosmosDbKey": "<Enter Cosmos Db Key>",
+    "CosmosDbUrl": "<Enter Cosmos Db Url>",
+    "DatabaseName": "<Enter Cosmos Db Database Name>"
+  }
+}
